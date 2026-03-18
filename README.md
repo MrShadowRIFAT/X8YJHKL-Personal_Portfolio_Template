@@ -127,7 +127,7 @@ graph LR
 
 ## 👨‍💼 Author
 
-**Rifat** | [🔗 rifat.website](https://rifat.website) | [📧 noreply@rifat.website](mailto:noreply@rifat.website)
+**MrShadowRIFAT** | [🔗 rifat.website](https://rifat.website) | [📧 noreply@rifat.website](mailto:noreply@rifat.website)
 
 ---
 
